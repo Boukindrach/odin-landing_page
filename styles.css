@@ -1,0 +1,11 @@
+.jump {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+.something {
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+}
